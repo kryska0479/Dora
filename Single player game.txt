@@ -1,0 +1,5 @@
+// ISO Game: Space Odyssey
+public class SpaceOdyssey {
+    public static void main(String[] args) {
+        System.out.println("Welcome to Space Odyssey!");
+        // Add your Space Odyssey game script here
